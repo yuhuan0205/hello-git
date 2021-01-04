@@ -1,2 +1,2 @@
 print('hello&git')
-prnit('version 1.01')
+prnit('version 1.02')
